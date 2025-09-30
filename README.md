@@ -4,7 +4,7 @@ Repositório de uma aplicação Node.js com Sequelize, Express e Handlebars, des
 
 ## Objetivo
 
-O objetivo deste projeto é exercitar conceitos de persistência de dados, relacionamento entre tabelas, manipulação de CRUD (Create, Read, Update, Delete) e renderização de páginas dinâmicas usando templates.
+Aprender a usar o Sequelize com foco no relacionamento. 
 
 ## Funcionalidades
 
